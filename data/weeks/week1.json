@@ -1,0 +1,24 @@
+{
+  "id": "week1",
+  "name": "WEEK 1",
+  "opponent": "DADDY DEAREST",
+  "menu_image": "week1.png",
+  "songs": [
+    {
+      "id": "bopeebo",
+      "title": "BOPEEBO",
+      "audio": "res://assets/songs/bopeebo/Bopeebo.mp3"
+    },
+    {
+      "id": "fresh",
+      "title": "FRESH",
+      "audio": "res://assets/songs/fresh/Fresh.mp3"
+    },
+    {
+      "id": "dadbattle",
+      "title": "DAD BATTLE",
+      "audio": "res://assets/songs/dadbattle/Dadbattle.mp3"
+    }
+  ],
+  "order": 0
+}
