@@ -1,0 +1,47 @@
+; Engine configuration file.
+; It's best edited using the editor UI and not directly,
+; since the parameters that go here are not all obvious.
+;
+; Format:
+;   [section] ; section goes between []
+;   param=value ; assign values to parameters
+
+config_version=5
+
+[accessibility]
+
+general/updates_per_second=64
+
+[application]
+
+config/name="BeatForge Engine"
+config/version="Alpha 0.1.9"
+run/main_scene="res://scenes/main.tscn"
+config/features=PackedStringArray("4.7")
+boot_splash/bg_color=Color(0.33809978, 0.33809966, 0.33809963, 1)
+config/icon="uid://ckhsaccmcqhj3"
+
+[autoload]
+
+Settings="*res://scripts/settings.gd"
+MenuSFX="*res://scripts/menu_sfx.gd"
+SceneTransition="*res://scripts/scene_transition.gd"
+ModManager="*res://scripts/mod_manager.gd"
+
+[display]
+
+window/size/viewport_width=1100
+window/size/viewport_height=620
+window/size/window_width_override=1100
+window/size/window_height_override=620
+window/stretch/mode="canvas_items"
+
+[gui]
+
+theme/custom_font="uid://bskbp225g87bj"
+theme/version="Alpha 0.1.9"
+
+[rendering]
+
+renderer/rendering_method="gl_compatibility"
+renderer/rendering_method.mobile="gl_compatibility"
