@@ -1,0 +1,18 @@
+{
+  "song": {
+    "song": "Minha Musica",
+    "bpm": 120,
+    "speed": 1.5,
+    "player1": "bf",
+    "player2": "dad",
+    "needsVoices": false,
+    "format": "psych_v1_convert",
+    "notes": [
+      {
+        "sectionBeats": 4,
+        "mustHitSection": true,
+        "sectionNotes": []
+      }
+    ]
+  }
+}

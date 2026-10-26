@@ -1,0 +1,57 @@
+{
+  "defaultZoom": 0.9,
+  "camera_speed": 1.0,
+  "opponent": [
+    100,
+    100
+  ],
+  "boyfriend": [
+    770,
+    100
+  ],
+  "girlfriend": [
+    400,
+    130
+  ],
+  "camera_opponent": [
+    0,
+    0
+  ],
+  "camera_boyfriend": [
+    0,
+    0
+  ],
+  "beatforge_display_scales": {
+    "opponent": 1.0,
+    "boyfriend": 1.0,
+    "girlfriend": 1.0
+  },
+  "beatforge_display_offsets": {
+    "opponent": [
+      0,
+      0
+    ],
+    "girlfriend": [
+      0,
+      0
+    ],
+    "boyfriend": [
+      0,
+      0
+    ]
+  },
+  "layers": [
+    {
+      "image": "stages/fundo.png",
+      "position": [
+        550,
+        305
+      ],
+      "scale": [
+        1,
+        1
+      ],
+      "z_index": -10
+    }
+  ]
+}

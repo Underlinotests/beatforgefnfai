@@ -1,0 +1,67 @@
+{
+  "atlas": "characters/personagem",
+  "scale": 1.0,
+  "flip_x": false,
+  "offset_scale": 1.0,
+  "position": [
+    0,
+    0
+  ],
+  "animations": [
+    {
+      "anim": "idle",
+      "name": "Personagem idle",
+      "fps": 12,
+      "loop": true,
+      "offsets": [
+        0,
+        0
+      ],
+      "indices": []
+    },
+    {
+      "anim": "singLEFT",
+      "name": "Personagem left",
+      "fps": 24,
+      "loop": false,
+      "offsets": [
+        0,
+        0
+      ],
+      "indices": []
+    },
+    {
+      "anim": "singDOWN",
+      "name": "Personagem down",
+      "fps": 24,
+      "loop": false,
+      "offsets": [
+        0,
+        0
+      ],
+      "indices": []
+    },
+    {
+      "anim": "singUP",
+      "name": "Personagem up",
+      "fps": 24,
+      "loop": false,
+      "offsets": [
+        0,
+        0
+      ],
+      "indices": []
+    },
+    {
+      "anim": "singRIGHT",
+      "name": "Personagem right",
+      "fps": 24,
+      "loop": false,
+      "offsets": [
+        0,
+        0
+      ],
+      "indices": []
+    }
+  ]
+}

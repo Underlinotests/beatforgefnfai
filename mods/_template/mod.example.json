@@ -1,0 +1,10 @@
+{
+  "api_version": 1,
+  "id": "meu_mod",
+  "name": "Meu primeiro mod",
+  "version": "1.0.0",
+  "author": "Seu nome",
+  "weeks": [
+    "weeks/minha_week.json"
+  ]
+}

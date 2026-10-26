@@ -1,0 +1,16 @@
+{
+  "id": "week_1",
+  "name": "MINHA WEEK",
+  "opponent": "NOVO OPONENTE",
+  "order": 1,
+  "songs": [
+    {
+      "id": "minha_musica",
+      "title": "MINHA MUSICA",
+      "audio": "songs/minha_musica/Inst.ogg",
+      "charts": {
+        "hard": "songs/minha_musica/minha_musica-hard.json"
+      }
+    }
+  ]
+}
