@@ -1,3 +1,5 @@
+<img width="100" height="100" alt="icon" src="https://github.com/user-attachments/assets/6074bef2-7eba-40b1-80eb-63aff1315e31" />
+
 # BeatForge Engine — Modding v1
 
 Engine de FNF em **Godot 4.7.2**, com Week 1 completa (Bopeebo, Fresh e Dad Battle), Story Mode, Freeplay, Options, menus animados e suporte inicial a mods sem alterar o código principal.
